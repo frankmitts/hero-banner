@@ -23,11 +23,12 @@ body {
 .banner {
   position: relative;
   overflow: hidden;
+  max-height: 500px;
 }
 
 h1 {
   margin: 0;
-  margin-bottom: .3em;
+  margin-bottom: .4em;
   font-size: 4rem;
   color: #fff;
   background-color: rgba(0, 0, 0, 0.5);
@@ -40,8 +41,8 @@ p {
 }
 
 .img-flex {
-  max-height: 500px;
-  max-width: 50em;
+  max-height: 400px;
+
 }
 
 .banner-content {
@@ -49,4 +50,5 @@ p {
   padding: 0 1.5rem;
   bottom: 1rem;
   top: .3em;
+    max-width: 50em;
 }
