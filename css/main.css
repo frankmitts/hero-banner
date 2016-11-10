@@ -34,7 +34,7 @@ div h2 {
 
 span {
   color: #fff;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, .5);
   line-height: 1.4;
 }
 
@@ -52,7 +52,7 @@ p {
 .banner-content {
   position: absolute;
   padding: 0 1.5rem;
-  bottom: 2rem;
+  bottom: 2.2rem;
   max-width: 50em;
   width: 100%;
   left: 50%;
