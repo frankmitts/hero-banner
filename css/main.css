@@ -1,0 +1,26 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+html {
+  font-family: normal "Open Sans" sans-serif;
+}
+
+
+h1 {
+  font-size: 4rem;
+}
+
+p {
+  font-size: 2rem;
+}
